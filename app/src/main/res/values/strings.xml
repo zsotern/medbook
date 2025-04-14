@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FoglaljDokit</string>
+    <string name="Login">Bejelentkezés</string>
+    <string name="Logout">Kijelentkezés</string>
+    <string name="EmailAddress">Email cím</string>
+    <string name="Password">Jelszó</string>
+    <string name="Registration">Regisztráció</string>
+    <string name="MedicalAppointmentBooking">FoglaljDokit</string>
+    <string name="PasswordConfirm">Jelszó megerősítése</string>
+    <string name="PhoneNumber">Telefonszám</string>
+    <string name="Cancel">Mégsem</string>
+    <string name="Név">Név</string>
+    <string name="Booking">Időpontfoglalás</string>
+    <string name="Settings">Beállítások</string>
+    <string name="inProgress">A második mérföldkőre készül :D</string>
+</resources>
